@@ -79,6 +79,30 @@ func main() {
 You can execute code inside your slides by pressing `<C-e>`,
 the output of your command will be displayed at the end of the current slide.
 
+<details markdown="block">
+<summary>Supported Languages</summary>
+
+- Bash
+- Zsh
+- Fish
+- Elixir
+- Go
+- Javascript
+- Lua
+- Perl
+- Python
+- Ruby
+- Rust
+- Java
+- Julia
+- Cpp
+- Swift
+- Dart
+- V
+- C (tcc must be installed)
+
+</details>
+
 ---
 
 ## Pre-process slides
